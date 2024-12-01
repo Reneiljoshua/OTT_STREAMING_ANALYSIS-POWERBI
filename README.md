@@ -17,9 +17,9 @@ This project provides a comprehensive analysis of the OTT platforms **Hotstar**,
 ---
 
 ## 📂 **Data Sources**  
-- **Hotstar Data**: Includes movies, series, genres, and release information.  
-- **Amazon Prime Data**: Content metadata with ratings and descriptions.  
-- **Netflix Data**: Covers titles, genres, IMDb ratings, and awards.  
+- **Hotstar Data**: Includes movies, series, genres, and release information.(https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)  
+- **Amazon Prime Data**: Content metadata with ratings and descriptions.(https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows) 
+- **Netflix Data**: Covers titles, genres, IMDb ratings, and awards.(https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ---
 
