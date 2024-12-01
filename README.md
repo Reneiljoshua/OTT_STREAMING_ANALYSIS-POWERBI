@@ -47,7 +47,7 @@ This project provides a comprehensive analysis of the OTT platforms **Hotstar**,
 ## 📌 **How to Use**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo-name/ott-analysis.git
+   git clone https://github.com/Reneiljoshua/OTT_STREAMING_ANALYSIS-POWERBI/OTT_DashBoard.pbix
    ```
 2. Open the Power BI file to explore the dashboards.  
 3. Interact with slicers and visuals for insights.  
